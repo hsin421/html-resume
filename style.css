@@ -1,0 +1,91 @@
+
+body {
+	font-family: Arial, sans-serif;
+	background-color:#ff3232;
+	margin: 20px;
+}
+
+header {
+	background-color: white;
+	margin: auto;
+	padding: 60px 60px 20px 60px;
+	width: 630px;
+	text-align: center;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h3 {
+	font-style: italic
+}
+
+.contact li{
+	color: #696969;
+	display: inline;
+	margin: 5px;
+	font-size: 13px
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color:red;
+	}
+
+article {
+	margin-bottom: 12px
+}
+
+section {
+	margin-bottom: 12px
+}
+
+.job-desc ul {
+	padding-left: 20px;
+	list-style: disc outside;
+	font-size: 16px;
+}
+
+h2, h3, li {
+	padding-bottom: 3px
+}
+
+.experience, .education {
+	background-color: white;
+	position: relative;
+	margin: auto;
+	margin-top: 10px;
+	padding: 30px 60px 30px 60px;
+	width: 630px;
+}
+
+.leadership {
+	background-color: white;
+	margin:auto;
+	margin-top: 10px;
+	padding: 20px 60px 60px 60px;
+	width: 630px;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px
+}
+
+article p {
+	display: inline;
+}
+
+.date {
+	float: right;
+}
